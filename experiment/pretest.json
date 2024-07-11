@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary purpose of an ELISA test?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To detect the presence of antigens or antibodies in a sample",
+        "b": "To detect the presence of DNA in a sample",
+        "c": "To measure the pH of a sample",
+        "d": "To measure the conductivity of a sample"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,63 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the name of the ELISA variant that involves using two antibodies to detect an antigen?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Direct ELISA",
+        "b": "Indirect ELISA",
+        "c": "Sandwich ELISA",
+        "d": "Competitive ELISA"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In which type of ELISA test is a labeled antigen used instead of a labeled antibody?",
+      "answers": {
+        "a": "Direct ELISA",
+        "b": "Sandwich ELISA",
+        "c": "Indirect ELISA",
+        "d": "Competitive ELISA"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not a type of ELISA?",
+      "answers": {
+        "a": "Direct ELISA",
+        "b": "Sandwich ELISA",
+        "c": "Competitive ELISA",
+        "d": "Western blot ELISA"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a common substrate used in ELISA tests?",
+      "answers": {
+        "a": "HRP",
+        "b": "BSA",
+        "c": "NaCl",
+        "d": "EDTA"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",

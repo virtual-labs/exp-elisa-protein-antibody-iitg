@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary characteristic of Direct ELISA?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Utilizes two labeled antibodies",
+        "b": "Involves a competitive reaction",
+        "c": "Antigen or antibody is immobilized directly",
+        "d": "Uses DNA technology for detection"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,80 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the purpose of the substrate in an ELISA test?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To produce a colored or fluorescent signal",
+        "b": "To amplify the signal",
+        "c": "To detect the antigen or antibody",
+        "d": "To remove unwanted molecules"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which ELISA type is most suitable for quantitative analysis of antigens with high specificity?",
+      "answers": {
+        "a": "Indirect ELISA",
+        "b": "Competitive ELISA",
+        "c": "Sandwich ELISA",
+        "d": "Open Sandwich ELISA"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not a principle of ELISA (Enzyme-Linked Immunosorbent Assay)?",
+      "answers": {
+        "a": "Specific antigen-antibody binding",
+        "b": "Use of an enzyme-conjugated secondary antibody",
+        "c": "Detection of a chromogenic or fluorescent signal",
+        "d": "Separation of unbound components by size exclusion chromatography"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Arrange the following steps about ELISA in correct order : <br> i) incubate with antibody-enzyme complex that binds primary antibody <br> ii) coat surface with antigen, block unoccupied sites with nonspecific protein <br> iii) add substrate, formation of colored product indicates presence of specific antigen <br> iv) incubate with primary antibody against specific antigen",
+      "answers": {
+        "a": "i, iv, ii, iii",
+        "b": "i, iv, iii, ii",
+        "c": "ii, iv, iii, i",
+        "d": "ii, iv, i, iii"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the key feature of competitive ELISA?",
+      "answers": {
+        "a": "Two antibodies recognizing different epitopes are used",
+        "b": "Competition between labeled and sample antigen for binding sites",
+        "c": "Detection involves DNA technology",
+        "d": "Involves direct binding of antigens and antibodies"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
