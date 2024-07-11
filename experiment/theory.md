@@ -1,7 +1,7 @@
 ### Theory
 <br>
 
-#### Enzyme Immunoassays (EIA) :
+#### Enzyme Immunoassays (EIA):
 <br>
 Enzyme Immunoassays (EIA) exploit the specificity of antibodies to detect and quantify antigens or antibodies in a sample by utilizing an enzymatic reaction. The most commonly used form of EIA is the Enzyme-Linked Immunosorbent Assay (ELISA). In an ELISA, an enzyme is conjugated to an antibody or antigen, which then interacts with a colorless substrate to produce a colored product. This substrate, known as a chromogenic substrate, allows for the visual or spectrophotometric detection of the immune reaction.
 <br>
@@ -21,3 +21,9 @@ ELISA is mainly grouped into four categories:
 * <b>Indirect ELISA:</b> Detects an antigen using a primary antibody followed by an enzyme-labeled secondary antibody.
 * <b>Sandwich ELISA:</b> Captures the antigen between two antibodies, one of which is enzyme-labeled.
 * <b>Competitive ELISA:</b> Measures the amount of antigen by its ability to compete with a labeled antigen for binding to an antibody.
+<br>
+
+#### Principle:
+The basic principle of ELISA involves interaction between a specific antigen and a corresponding immobilized antibody. Once the antigen is bound to the immobilized antibody, the antigen-antibody complex is detected using an enzyme-conjugated secondary antibody.
+
+<img src="images/image2.png" width="650px">
