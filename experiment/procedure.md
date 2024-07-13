@@ -21,7 +21,7 @@ After washing, an enzyme substrate is introduced to the wells. The enzyme-substr
 * <b>Data analysis:</b><br>
 A microplate reader that detects the absorbance, fluorescence, or luminescence can quantify the signal produced, which is proportional to the amount of antigen in the sample.
 
-<img src="images/image3.png" width="650px">
+<br><div style="text-align: center;"><img src="images/image3.png" width="650px"></div>
 
 ##### Types of ELISA:
 There are mainly four types of ELISA . Each of them has unique advantages, disadvantages, and suitability based on the application and the type of antigen being tested. The different types of ELISA namely are: <br>
@@ -35,23 +35,22 @@ There are mainly four types of ELISA . Each of them has unique advantages, disad
 ##### Direct ELISA: <br>
 In Direct ELISA, the antigen or antibody is immobilized directly onto a surface. When the sample is added, any complementary molecules present will bind to the immobilized antigen or antibody. After washing off unbound substances, an enzyme-linked antibody or antigen is introduced. If the target is present, a reaction occurs, and a detectable signal is produced. This method is straightforward but may lack sensitivity and specificity due to non-specific binding.
 
-<img src="images/image4.png" width="400px"> 
+<br><div style="text-align: center;"><img src="images/image4.png" width="400px"></div>
 
 ##### Indirect ELISA: <br>
 In Indirect ELISA, the antigen is immobilized on the surface. The sample containing antibodies is added. If specific antibodies are present, they bind to the antigen. After washing off unbound substances, an enzyme-labeled secondary antibody, which recognizes the primary antibody, is added. The enzyme reaction produces a signal. Indirect ELISA is versatile and widely used in disease diagnosis, especially for detecting antibodies in patient samples.
 
-<img src="images/image5.png" width="400px"> 
+<br><div style="text-align: center;"><img src="images/image5.png" width="400px"></div>
 
 ##### Sandwich ELISA: <br>
 In Sandwich ELISA, the surface is coated with a capture antibody specific to the antigen of interest. The sample is added, and if the antigen is present, it binds to the capture antibody. After washing, a labeled detection antibody, recognizing a different epitope on the antigen, is added. This dual binding enhances specificity. After washing off unbound substances, a signal is generated. Sandwich ELISA is highly specific, making it suitable for quantitative analysis of antigens, especially in clinical diagnostics.
 
-<img src="images/image6.png" width="400px"> 
+<br><div style="text-align: center;"><img src="images/image6.png" width="400px"></div>
 
 ##### Competitive ELISA: <br>
 Competitive ELISA involves competition between a labeled antigen or antibody and the antigen in the sample for binding sites on a solid-phase-bound antibody or antigen. If the sample antigen concentration is high, it competes more effectively, leading to reduced binding of the labeled molecule. After washing, a signal is generated. Competitive ELISA is useful when specificity is crucial and is often employed to detect small molecules or drugs.
-<br>
- <img src="images/image7.png" width="400px"> 
-<br>
+
+<br><div style="text-align: center;"><img src="images/image7.png" width="400px"></div><br>
 
 ##### Open Sandwich ELISA (OS-ELISA): <br>
 OS-ELISA utilizes DNA technology. When the antigen is present, the interaction between variable regions of heavy and light chains (VH and VL) is enhanced. This complex formation is detected using an enzyme-labeled antibody. OS-ELISA offers high specificity for both macromolecules and haptens. Its unique advantage lies in its ability to discern specific molecular interactions, making it valuable in specialized research contexts.
