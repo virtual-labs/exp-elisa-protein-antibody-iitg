@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the primary purpose of an ELISA test?",
+      "question": "1. What is the primary purpose of an ELISA test?",
       "answers": {
         "a": "To detect the presence of antigens or antibodies in a sample",
         "b": "To detect the presence of DNA in a sample",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the name of the ELISA variant that involves using two antibodies to detect an antigen?",
+      "question": "2. What is the name of the ELISA variant that involves using two antibodies to detect an antigen?",
       "answers": {
         "a": "Direct ELISA",
         "b": "Indirect ELISA",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "In which type of ELISA test is a labeled antigen used instead of a labeled antibody?",
+      "question": "3. In which type of ELISA test is a labeled antigen used instead of a labeled antibody?",
       "answers": {
         "a": "Direct ELISA",
         "b": "Sandwich ELISA",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following is not a type of ELISA?",
+      "question": "4. Which of the following is not a type of ELISA?",
       "answers": {
         "a": "Direct ELISA",
         "b": "Sandwich ELISA",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following is a common substrate used in ELISA tests?",
+      "question": "5. Which of the following is a common substrate used in ELISA tests?",
       "answers": {
         "a": "HRP",
         "b": "BSA",
@@ -84,6 +84,91 @@
         "d": ""
       },
       "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. What type of substrate is used in ELISA to produce a colored product?",
+      "answers": {
+        "a": "Fluorogenic substrate",
+        "b": "Chromogenic substrate",
+        "c": "Radiolabeled substrate",
+        "d": "Chemiluminescent substrate"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which type of ELISA involves the direct detection of an antigen with an enzyme-labeled antibody?",
+      "answers": {
+        "a": "Indirect ELISA",
+        "b": "Sandwich ELISA",
+        "c": "Direct ELISA",
+        "d": "Competitive ELISA"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. What is the role of the enzyme-conjugated secondary antibody in an ELISA?",
+      "answers": {
+        "a": "To bind directly to the antigen",
+        "b": "To facilitate the capture of the antigen",
+        "c": "To detect the antigen-antibody complex",
+        "d": "To inhibit the antigen"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. WWhat is the principle behind a competitive ELISA?",
+      "answers": {
+        "a": "An enzyme-labeled antibody directly detects the antigen.",
+        "b": "The antigen is captured between two antibodies.",
+        "c": "The antigen competes with a labeled antigen for binding to an antibody.",
+        "d": "A primary antibody is followed by an enzyme-labeled secondary antibody."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. What does a colored product in an ELISA indicate?",
+      "answers": {
+        "a": "The presence of a chromogenic substrate",
+        "b": "The presence of an antigen or antibody in the sample",
+        "c": "The inhibition of the enzymatic reaction",
+        "d": "The failure of the assay"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
