@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What is the primary characteristic of Direct ELISA?",
+      "answers": {
+        "a": "Utilizes two labeled antibodies",
+        "b": "Involves a competitive reaction",
+        "c": "Antigen or antibody is immobilized directly",
+        "d": "Uses DNA technology for detection"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What is the purpose of the substrate in an ELISA test?",
+      "answers": {
+        "a": "To produce a colored or fluorescent signal",
+        "b": "To amplify the signal",
+        "c": "To detect the antigen or antibody",
+        "d": "To remove unwanted molecules"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which ELISA type is most suitable for quantitative analysis of antigens with high specificity?",
+      "answers": {
+        "a": "Indirect ELISA",
+        "b": "Competitive ELISA",
+        "c": "Sandwich ELISA",
+        "d": "Open Sandwich ELISA"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which of the following is not a principle of ELISA (Enzyme-Linked Immunosorbent Assay)?",
+      "answers": {
+        "a": "Specific antigen-antibody binding",
+        "b": "Use of an enzyme-conjugated secondary antibody",
+        "c": "Detection of a chromogenic or fluorescent signal",
+        "d": "Separation of unbound components by size exclusion chromatography"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Arrange the following steps about ELISA in correct order : <br> i) incubate with antibody-enzyme complex that binds primary antibody <br> ii) coat surface with antigen, block unoccupied sites with nonspecific protein <br> iii) add substrate, formation of colored product indicates presence of specific antigen <br> iv) incubate with primary antibody against specific antigen",
+      "answers": {
+        "a": "i, iv, ii, iii",
+        "b": "i, iv, iii, ii",
+        "c": "ii, iv, iii, i",
+        "d": "ii, iv, i, iii"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. What is the key feature of competitive ELISA?",
+      "answers": {
+        "a": "Two antibodies recognizing different epitopes are used",
+        "b": "Competition between labeled and sample antigen for binding sites",
+        "c": "Detection involves DNA technology",
+        "d": "Involves direct binding of antigens and antibodies"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. What is the primary purpose of the coating step in the ELISA process?",
+      "answers": {
+        "a": "To block non-specific binding",
+        "b": "To immobilize an antigen or antibody on a solid surface",
+        "c": "To detect the presence of an enzyme",
+        "d": "To wash away unbound substances"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. In the detection phase of ELISA, what is typically added to the wells to bind to the antigen?",
+      "answers": {
+        "a": "A blocking buffer",
+        "b": "A chromogenic substrate",
+        "c": "A detection antibody conjugated with an enzyme",
+        "d": "A capture antibody"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. What is the purpose of the enzyme-substrate reaction in ELISA?",
+      "answers": {
+        "a": "To immobilize the antigen",
+        "b": "To produce a detectable signal",
+        "c": "To block non-specific binding",
+        "d": "To coat the plate with antibodies"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. Which disease is NOT commonly diagnosed using ELISA?",
+      "answers": {
+        "a": "HIV",
+        "b": "Syphilis",
+        "c": "Influenza",
+        "d": "Hypertension"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
