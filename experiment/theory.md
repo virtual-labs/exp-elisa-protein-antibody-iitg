@@ -1,9 +1,7 @@
 ### Theory
 <br>
 
-#### Enzyme Immunoassays (EIA):
-<br>
-Enzyme Immunoassays (EIA) exploit the specificity of antibodies to detect and quantify antigens or antibodies in a sample by utilizing an enzymatic reaction. The most commonly used form of EIA is the Enzyme-Linked Immunosorbent Assay (ELISA). In an ELISA, an enzyme is conjugated to an antibody or antigen, which then interacts with a colorless substrate to produce a colored product. This substrate, known as a chromogenic substrate, allows for the visual or spectrophotometric detection of the immune reaction.
+Enzyme Immunoassays (EIA) are a laboratory technique used to detect or quantify antigens or antibodies, using an enzyme as a label. The most commonly used form of EIA is the Enzyme-Linked Immunosorbent Assay (ELISA). In an ELISA, an enzyme is conjugated to an antibody or antigen, which then interacts with a colourless substrate to produce a colored product. This chromogenic substrate allows for the visual or spectrophotometric detection of the immune reaction
 <br>
 <br>
 Various enzymes are employed in ELISA due to their ability to catalyze reactions efficiently and produce detectable signals. Commonly used enzymes include:
